@@ -1,0 +1,8 @@
+main: me.justeli.lanterns.main.Load
+version: 0.1.1
+name: Lanterns
+author: JustEli
+
+commands:
+  lanterns:
+    aliases: [lantern, gl]
